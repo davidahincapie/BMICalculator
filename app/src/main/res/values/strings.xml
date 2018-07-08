@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="BMICalculator">BMI Calculator</string>
+    <string name="EnterHeight">Enter your height in inches:</string>
+    <string name="weightText">Enter your weight in pounds:</string>
+    <string name="bmiHeader">Body Mass Index</string>
+    <string name="btnCalcBMI">Calculate BMI</string>
+    <string name="bmiOut">0</string>
+</resources>
